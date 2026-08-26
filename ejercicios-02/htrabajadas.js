@@ -23,6 +23,6 @@ rl.question("Ingrese el nombre del empleado: ",function(nombre){
             console.log(`Salario semanal:$ ${salario.toFixed(2)}`);
 
             rl.close();
-        })
-    })
-})
+        });
+    });
+});

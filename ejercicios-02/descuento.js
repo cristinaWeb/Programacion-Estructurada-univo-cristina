@@ -24,5 +24,5 @@ rl.question("Ingrese el precio del producto: ",function(precio){
 
         rl.close();
 
-    })
-})
+    });
+});
